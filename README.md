@@ -1,2 +1,2 @@
 # thevoidclub
-thevoidclub.com Site
+thevoidclub.com Website
